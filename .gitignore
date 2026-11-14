@@ -29,3 +29,9 @@ results/
 .idea/
 .DS_Store
 Thumbs.db
+
+# University Submission Report
+/WSB_Pizzeria_Report.pdf
+
+# Original Example Tests (Not Part Of The Final Project)
+/test_pizzeria.robot
